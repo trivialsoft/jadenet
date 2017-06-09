@@ -23,3 +23,7 @@ Tipo de Dato Base | Descripcion
 ------------------|------------
 s| Texto Corto
 t| Texto Largo
+i| Número Entero
+l| Número Largo
+ts| Texto Descriptivo
+d| Fecha
