@@ -27,3 +27,6 @@ i| Número Entero
 l| Número Largo
 ts| Texto Descriptivo
 d| Fecha
+b| Blob, Image
+f| Numero Flotante
+0| Booleano
