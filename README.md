@@ -1,5 +1,5 @@
 # models
-Listado de Modelos ML para compartir
+Referencia para el uso del lenguaje de modelado ML.
 
 ## Lenguaje para Modelado
 * Para declarar una **Clase**:
