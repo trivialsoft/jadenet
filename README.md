@@ -2,7 +2,9 @@
 Listado de Modelos ML para compartir
 
 ## Lenguaje para Modelado
-
+### Para declarar una clase:
+```[CLASSNAME]:c
+```
 ```[ml]
 Persona:c
 Persona:*#
