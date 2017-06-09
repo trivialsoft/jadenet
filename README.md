@@ -13,7 +13,7 @@ Nombre:ts
 ```
 ## Tipos de Propiedades
 
-###Para definir una **Propiedad Llave** numérica:
+### Para definir una **Propiedad Llave** numérica:
 ```[ml]
 [PROPERTY_NAME]:i*
 ```
