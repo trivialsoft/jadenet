@@ -17,7 +17,17 @@ Nombre:ts
 ```[ml]
 [PROPERTY_NAME]:i*
 ```
-### Propiedad Descriptiva
+* Para definir una **Propiedad Llave** auto numérica:
+```[ml]
+[PROPERTY_NAME]:*#
+```
+
+* Para definir una **Propiedad Descriptiva**:
+```[ml]
+[PROPERTY_NAME]:ts
+```
+
+
 
 ### Propiedad Objeto
 
