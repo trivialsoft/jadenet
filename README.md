@@ -2,7 +2,7 @@
 Listado de Modelos ML para compartir
 
 ## Lenguaje para Modelado
-### Para declarar una clase:
+* Para declarar una **Clase**:
 ```[ml]
 [CLASSNAME]:c
 ```
