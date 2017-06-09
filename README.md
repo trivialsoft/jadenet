@@ -29,7 +29,10 @@ Nombre:ts
 
 
 
-### Propiedad Objeto
+* Para definir una **Propiedad Objeto(Modelo)**:
+```[ml]
+[PROPERTY_NAME]:[CLASSNAME|auto]
+```
 
 ### Propiedad Lista
 
