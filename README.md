@@ -12,8 +12,11 @@ Persona:*#
 Nombre:ts
 ```
 ## Tipos de Propiedades
-### Propiedad Llave
 
+###Para definir una **Propiedad Llave** numérica:
+```[ml]
+[PROPERTY_NAME]:i*
+```
 ### Propiedad Descriptiva
 
 ### Propiedad Objeto
