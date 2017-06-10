@@ -4,7 +4,7 @@ Referencia para el uso del lenguaje de modelado ML.
 ## Lenguaje para Modelado
 * Para declarar una **Clase**:
 ```[ml]
-[CLASSNAME]:c
+[CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}
 ```
 ```[ml]
 Persona:c
@@ -45,6 +45,11 @@ Sexo:Sexo
 ```[ml]
 [PROPERTY_NAME]:*[CLASSNAME]?[PROPERTY_FK]:[TYPE]
 ```
+* Para definir una **Propiedad Auxiliar**:
+```[ml]
+[PROPERTY_NAME]:[PROPERTY_TYPE]!
+```
+
 ## Tipos de datos
 
 Tipo de Dato ML | Tipo de Dato |Utilidad
