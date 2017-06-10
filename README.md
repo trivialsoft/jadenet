@@ -7,7 +7,7 @@ Referencia para el uso del lenguaje de modelado ML.
 [CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}
 ```
 ```[ml]
-Persona:c
+Persona:c{Persona|Personas}
 Persona:*#
 Nombre:ts
 Apellido:s
