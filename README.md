@@ -34,8 +34,10 @@ Nombre:ts
 [PROPERTY_NAME]:[CLASSNAME|auto]
 ```
 
-### Propiedad Lista
-
+* Para definir una **Propiedad Lista**:
+```[ml]
+[PROPERTY_NAME]:*[CLASSNAME]?[PROPERTY_FK]:[TYPE]
+```
 ## Tipos de datos
 
 Tipo de Dato Base | Descripcion
@@ -49,3 +51,4 @@ d| Fecha
 b| Blob, Image
 f| Numero Flotante
 0| Booleano
+x| Decimal
