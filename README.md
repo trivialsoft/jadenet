@@ -34,8 +34,6 @@ Sexo:Sexo
 [PROPERTY_NAME]:ts
 ```
 
-
-
 * Para definir una **Propiedad Objeto(Modelo)**:
 ```[ml]
 [PROPERTY_NAME]:[CLASSNAME|auto]
@@ -48,6 +46,10 @@ Sexo:Sexo
 * Para definir una **Propiedad Auxiliar**:
 ```[ml]
 [PROPERTY_NAME]:[PROPERTY_TYPE]!
+```
+* Para incluir un **Texto para la UI**:
+```[ml]
+[PROPERTY_NAME]:[PROPERTY_TYPE]{[NAME_FOR_UI] }
 ```
 
 ## Tipos de datos
