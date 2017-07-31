@@ -28,6 +28,10 @@ Sexo:Sexo
 ```[ml]
 [PROPERTY_NAME]:*#
 ```
+* Para definir una **Propiedad Llave Objeto(Modelo)**:
+```[ml]
+[PROPERTY_NAME]:**[CLASSNAME]
+```
 
 * Para definir una **Propiedad Descriptiva**:
 ```[ml]
