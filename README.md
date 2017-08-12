@@ -12,6 +12,7 @@ Persona:*#
 Nombre:ts
 Apellido:s
 Sexo:Sexo
+Nacionalidad:auto
 ```
 ## Tipos de Propiedades
 
