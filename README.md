@@ -73,3 +73,4 @@ f|	Float	|para al almacenar numeros de punto flotante
 d|	DateTime	|para al almacenar Fechas
 ss|	String	|para al almacenar listado de string
 y|	Tinyint	|para al almacenar numeros pequeños
+256| String |para almacenar un string de longitud 256
