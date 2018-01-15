@@ -49,3 +49,5 @@ d| Fecha
 b| Blob, Image
 f| Numero Flotante
 0| Booleano
+x| Decimal
+y| TinyInt
