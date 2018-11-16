@@ -1,7 +1,7 @@
-# models
-Referencia para el uso del lenguaje de modelado ML.
+# Lenguaje para Modelado de clases(ML)
 
-## Lenguaje para Modelado
+>Referencia para el uso del lenguaje de modelado ML.
+
 * Para declarar una **Clase**:
 ```[ml]
 [CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}
