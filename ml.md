@@ -2,7 +2,7 @@
 
 > Referencia para el uso del lenguaje de modelado ML.
 
-* Para declarar una **Clase**:
+* Para declarar un **Modelo o Clase**:
 
 ```[ml]
 [CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}
@@ -21,6 +21,7 @@ Telefonos:*Telefono?Persona:i
 ## Tipos de Propiedades
 
 * Para definir una **Propiedad Simple**:
+> Es decir que incluye un tipo de dato básico(string,integer,float,etc.)
 
 ```[ml]
 [PROPERTY_NAME]:[PROPERTY_TYPE]
