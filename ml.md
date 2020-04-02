@@ -5,13 +5,13 @@
 * Para declarar un **Modelo o Clase**:
 
 ```[ml]
-[CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}
+[CLASSNAME]:c{[UI_NAME]|[COLLECTION_CLASSNAME]}[SOURCENAME]
 ```
 
 ```[ml]
-Persona:c{Persona|Personas}
-Persona:*#
-Nombre:ts
+Persona:c{Persona|Personas}[tblPesonas]
+Persona:*#{Persona Id}[intPersona]
+Nombre:ts{Nombre}[strNombre]
 Apellido:s
 Sexo:Sexo
 Nacionalidad:auto
